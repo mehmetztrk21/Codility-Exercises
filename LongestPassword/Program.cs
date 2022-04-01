@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LongestPassword
+namespace LongestPassword //Given a string containing words, find the longest word that satisfies specific conditions.
 {
     class Program
     {

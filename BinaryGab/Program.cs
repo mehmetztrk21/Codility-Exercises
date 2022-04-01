@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace BinaryGab
+namespace BinaryGab  //Find longest sequence of zeros in binary representation of an integer.
 {
     class Program
     {
